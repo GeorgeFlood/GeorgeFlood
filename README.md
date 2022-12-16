@@ -1,6 +1,6 @@
-<h1>🏄‍♂️ George Flood</h1>
+<h1>👨🏼‍💻 George Flood</h1>
 
-<hr>
+
 
 **<h3>Digital Craftsman (Front-end Developer)</h3>**
 
