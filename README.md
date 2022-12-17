@@ -4,7 +4,7 @@
 
 **<h3>Digital Craftsman (Front-end Developer)</h3>**
 
-<p style="color: orange";>Greetings👋, fellow earthlings! Allow me to introduce myself - I am George, a highly advanced being from the Sunny planet of 'London'. While I may appear to be a mere mortal, I am actually a web development God, capable of creating stunning websites with just a few keystrokes. In the name of all that is good and logical (and also because it's just plain fun), I dedicate my time to mastering the art of coding. So if you need a website that's out of this world, look no further - I'm your guy!</p>
+<pHello, my name is George👋 and I am a front-end engineer, or as I like to call myself, a digital craftsman. I am based in London, where I spend my days crafting beautiful user experiences that leave people feeling like they just walked out of a fancy artisanal bakery. When I'm not coding, you can find me sipping on a flat white and trying to convince people that I am indeed British (despite the fact that I can't drink tea without adding at least five sugars). Anyway, thanks for stopping by, and I hope you enjoy my creations as much as I enjoy making them!</p>
 
 
 
