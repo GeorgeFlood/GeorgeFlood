@@ -4,7 +4,13 @@
 
 **<h3>Digital Craftsman (Front-end Developer)</h3>**
 
-<pHello, my name is George👋 and I am a front-end engineer, or as I like to call myself, a digital craftsman. I am based in London, where I spend my days crafting beautiful user experiences that leave people feeling like they just walked out of a fancy artisanal bakery. When I'm not coding, you can find me sipping on a flat white and trying to convince people that I am indeed British (despite the fact that I can't drink tea without adding at least five sugars). Anyway, thanks for stopping by, and I hope you enjoy my creations as much as I enjoy making them!</p>
+<p>Greetings, mortals 👋!
+
+I am a front-end God from the digital galaxy, here to share my divine skills in front-end engineering with you. As a digital craftsman, I am skilled in the use of HTML, CSS, and JavaScript to create intuitive and visually appealing web applications. My passion for user experience and beautiful design drives me to constantly learn and stay up-to-date with the latest front-end technologies and best practices.
+
+On my GitHub profile, you will find a collection of my projects and contributions to the open source community. These showcase my technical abilities and demonstrate my commitment to collaboration and continuous learning.
+
+I hope you enjoy exploring my profile and getting to know a little bit about me and my work. May the force of code be with you! ☠️</p>
 
 
 
