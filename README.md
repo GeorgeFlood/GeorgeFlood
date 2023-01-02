@@ -4,13 +4,10 @@
 
 **<h3>Digital Craftsman (Front-end Developer)</h3>**
 
-<p>Greetings, mortals 👋!
+<p>Greetings👋!
 
-I am a front-end God from the digital galaxy, here to share my divine skills in front-end engineering with you. As a digital craftsman, I am skilled in the use of HTML, CSS, and JavaScript to create intuitive and visually appealing web applications. My passion for user experience and beautiful design drives me to constantly learn and stay up-to-date with the latest front-end technologies and best practices.
-
-On my GitHub profile, you will find a collection of my projects and contributions to the open source community. These showcase my technical abilities and demonstrate my commitment to collaboration and continuous learning.
-
-I hope you enjoy exploring my profile and getting to know a little bit about me and my work. May the force of code be with you! ☠️</p>
+And welcome to my GitHub profile! I am a front-end developer (or as I like to call myself, a digital craftsman) with a passion for building beautiful and functional websites using HTML, CSS/SCSS, and JavaScript/React. Take a look around and check out some of my projects. I hope you find them as enjoyable to explore as I did to create.
+On my GitHub profile, you will find a collection of my projects. These showcase my technical abilities and demonstrate my commitment to continuous learning.</p>
 
 
 
