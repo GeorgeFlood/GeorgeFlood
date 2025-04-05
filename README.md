@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;"/>
+      <img src="https://logowik.com/content/uploads/images/laravel8530.jpg" alt="Laravel" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="Three.js">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="40" height="40" style="margin-right: 10px;"/>
