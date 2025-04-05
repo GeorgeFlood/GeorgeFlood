@@ -23,7 +23,9 @@ I'm passionate about building **clean**, **efficient**, and **user-friendly** we
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/george-flood-frontend/)
+<a href="https://www.linkedin.com/in/george-flood-frontend/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="George Flood LinkedIn" width="50" height="50"/>
+</a>
 
 ---
 
