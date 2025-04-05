@@ -54,7 +54,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-      <img src="https://handwiki.org/wiki/images/thumb/9/95/Tailwind_CSS_logo.svg/1200px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
