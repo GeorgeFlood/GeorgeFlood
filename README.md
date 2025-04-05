@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQHwSZVIVHTH1w/article-cover_image-shrink_600_2000/0/1623817393189?e=2147483647&v=beta&t=Ugfvr044S0Va_vi68x77ka90fps-5w9-D0Uk3rRlIFk)](https://georgeflood.dev)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://georgeflood.dev)
 
 <h1 align="center">Hi there 👋, I'm George Flood</h1>
 <h3 align="center">Junior Web Developer based near Croydon, UK</h3>
