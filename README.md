@@ -1,9 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://georgeflood.dev)
 
-<h1 align="center">Hi there 👋, I'm George Flood</h1>
-<h3 align="center">Junior Web Developer based near Croydon, UK</h3>
+<h1 align="center">Hi there 👋, I'm George</h1>
+<h3 align="center">Junior Web Developer for Hydro-Cleansing based in Croydon, UK</h3>
 
-<img align="right" alt="Coding illustration" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align="right" alt="Coding illustration" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
 
 <p align="left">I'm passionate about building clean, efficient, and user-friendly web applications. Always eager to learn new technologies and improve my skills in the ever-evolving world of web development.</p>
 
