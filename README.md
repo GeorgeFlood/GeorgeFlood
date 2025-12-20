@@ -1,4 +1,3 @@
-[![Banner](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://georgeflood.dev)
 
 <h1 align="center">👋 Hi, I'm George Flood</h1>
 <h3 align="center">Junior Web Developer @ Hydro-Cleansing | Croydon, UK</h3>
