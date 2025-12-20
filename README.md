@@ -9,8 +9,6 @@
 
 ---
 
-<img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
-
 ### ✨ About Me
 
 I'm passionate about building **clean**, **efficient**, and **user-friendly** web applications. Always excited to explore and master the latest web technologies.
@@ -45,17 +43,3 @@ I'm passionate about building **clean**, **efficient**, and **user-friendly** we
 </p>
 
 ---
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeflood&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeflood&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeflood&theme=tokyonight" alt="GitHub Streak"/>
-</p>
