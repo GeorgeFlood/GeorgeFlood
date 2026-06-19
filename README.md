@@ -21,7 +21,7 @@ Currently looking for my next role. Open to hybrid or remote around London.
 
 **[MeetHere](https://meethere.live)** — finds a fair meeting point across London for a group, using the TfL Unified API to balance everyone's travel time. Built with Laravel.
 
-**PostcodeFindr(https://www.postcodefindr.uk/)** — UK postcode lookup built on the OS Places API. Shipped as an API, a web app, and a CLI.
+**[PostcodeFindr](https://www.postcodefindr.uk/)** — UK postcode lookup built on the OS Places API. Shipped as an API, a web app, and a CLI.
 
 **[Portfolio](https://georgeflood.co.uk)** — a single-page scroll experience: warp-speed starfield, a NASA-textured Earth, atmospheric descent. Built with Three.js.
 
