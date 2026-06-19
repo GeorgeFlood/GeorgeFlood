@@ -64,7 +64,3 @@ Right now I'm sharpening the bits that matter in real full-stack work:
 I want to get better at writing code that is not just clever enough to work today, but clear enough for another developer to live with six months from now.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeflood&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-</p>
