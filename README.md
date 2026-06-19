@@ -7,7 +7,7 @@
 
 Self-taught full-stack developer. I came to code from six years in hospitality management, so I care about shipping things that actually work for the people using them.
 
-Most of my time goes on Laravel and React. I owned a production CMS managing 200+ sites on AWS as the sole in-house developer. I like clean code, real code review, and building things end to end.
+Most of my time goes on Laravel and React. I owned a production CMS managing 200+ sites on AWS as an in-house developer. I like clean code, real code review, and building things end to end.
 
 Currently looking for my next role. Open to hybrid or remote around London.
 
@@ -21,7 +21,7 @@ Currently looking for my next role. Open to hybrid or remote around London.
 
 **[MeetHere](https://meethere.live)** — finds a fair meeting point across London for a group, using the TfL Unified API to balance everyone's travel time. Built with Laravel.
 
-**PostcodeFindr** — UK postcode lookup built on the OS Places API. Shipped as an API, a web app, and a CLI.
+**PostcodeFindr(https://www.postcodefindr.uk/)** — UK postcode lookup built on the OS Places API. Shipped as an API, a web app, and a CLI.
 
 **[Portfolio](https://georgeflood.co.uk)** — a single-page scroll experience: warp-speed starfield, a NASA-textured Earth, atmospheric descent. Built with Three.js.
 
