@@ -1,48 +1,57 @@
-<h1 align="center">George Flood</h1>
-<p align="center">Full-stack developer · Laravel + React · London, UK</p>
+About
 
----
+I'm a self-taught full-stack developer based in London.
 
-### About
+Before code, I spent six years in hospitality management, which probably explains why I care more about whether something actually works for people than whether it sounds impressive in a repo description.
 
-Self-taught full-stack developer. I came to code from six years in hospitality management, so I care about shipping things that actually work for the people using them.
+Most of my work sits around Laravel, React, PHP, MySQL and AWS. In my last in-house role, I owned a production CMS that managed 200+ websites, worked across frontend and backend features, and got a proper introduction to the reality of shipping software: bugs, deadlines, unclear requirements, server issues, quick fixes, and the occasional beautiful moment where everything actually works.
 
-Most of my time goes on Laravel and React. I owned a production CMS managing 200+ sites on AWS as an in-house developer. I like clean code, real code review, and building things end to end.
+I like clean code, honest code review, and building things end to end. I'm still early in my career, but I'm serious about getting good.
 
-Currently looking for my next role. Open to hybrid or remote around London.
+Currently looking for my next developer role. Open to hybrid or remote work around London.
 
-- 🌐 Portfolio: [georgeflood.co.uk](https://georgeflood.co.uk)
-- 💼 LinkedIn: [george-flood](https://www.linkedin.com/in/george-flood-frontend/)
-- 📫 Email: mrgeorgeflood@gmail.com
+Selected work
+MeetHere
 
----
+A Laravel app that finds a fair meeting point across London for a group.
 
-### What I'm building
+It uses the TfL Unified API to compare journey times and suggest locations that don't quietly stitch one person up with a horrible commute.
 
-**[MeetHere](https://meethere.live)** — finds a fair meeting point across London for a group, using the TfL Unified API to balance everyone's travel time. Built with Laravel.
+Laravel PHP TfL API Travel data MySQL
 
-**[PostcodeFindr](https://www.postcodefindr.uk/)** — UK postcode lookup built on the OS Places API. Shipped as an API, a web app, and a CLI.
+PostcodeFindr
 
-**[Portfolio](https://georgeflood.co.uk)** — a single-page scroll experience: warp-speed starfield, a NASA-textured Earth, atmospheric descent. Built with Three.js.
+A UK postcode lookup project built on the OS Places API.
 
----
+I shipped it as an API, a web app, and a CLI because I wanted to understand the same product from different angles: backend logic, user interface, and developer tooling.
 
-### Stack
+Laravel PHP OS Places API CLI API design
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+Portfolio
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+A Three.js portfolio built as a single-page scroll experience.
 
----
+It starts with a warp-speed starfield, moves towards a NASA-textured Earth, and drops through the atmosphere into the main site. Mostly built because I wanted my portfolio to feel a bit more alive than another grid of cards.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeflood&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-</p>
+Three.js JavaScript GSAP WebGL Creative frontend
+
+Stack
+Backend
+
+Laravel PHP MySQL REST APIs AWS Nginx
+
+Frontend
+
+React TypeScript JavaScript Tailwind CSS SCSS Three.js
+
+Tools
+
+Git GitHub VS Code Cursor TablePlus Postman
+
+What I'm focused on
+
+Right now I'm sharpening the bits that matter in real full-stack work:
+
+Laravel architecture API design database structure React TypeScript testing refactoring
+
+I want to get better at writing code that is not just clever enough to work today, but clear enough for another developer to live with six months from now.
